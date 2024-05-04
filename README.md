@@ -1,4 +1,4 @@
-# Object-Detection-using-STM32-board
+# Object-Detection-using-Raspberry-Pi
 
 Setting up TensorFlow Lite on the Raspberry Pi :
 
